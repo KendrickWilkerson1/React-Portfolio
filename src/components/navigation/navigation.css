@@ -1,0 +1,20 @@
+.nav-links {
+    display: flex;
+    gap: 50px;
+    font-size: 24px;
+}
+
+.nav-links li {
+    list-style: none;
+
+}
+
+.nav-links li a {
+    text-decoration: none;
+    color: white;
+    
+}
+
+.active {
+    border-bottom: 1px solid white;
+}
