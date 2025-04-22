@@ -2,6 +2,20 @@
 
 body,html {
     margin: 0;
-    background-color: #f8f9fa;
+    background-color: #495057;
     font-family: 'poppins';
+    /* height: 100vh; */
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    height: 100%;
+}
+
+.app {
+    display: flex;
+    flex-direction: column;
+    flex: 1; 
+    height: 100%;
+    position: relative;
+    /* justify-content: space-between; */
 }

@@ -5,3 +5,8 @@
     background-color: #6c757d;
     color: white;
 }
+
+.header h1 {
+    display: flex;
+    align-items: center;
+}

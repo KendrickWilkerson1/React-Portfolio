@@ -1,0 +1,19 @@
+.links {
+    background-color: #6c757d;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.links svg {
+    color: #adb5bd;
+    transition: color .7s;
+}
+
+.links svg:hover {
+    color: white;
+    cursor: pointer;
+}
